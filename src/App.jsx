@@ -5,6 +5,7 @@ function App() {
     <>  
         <div className='cardContainer'>
           <div className='infoContainer'>
+            <img src="assets/images/illustration-article.svg" />
             <h4>Learning</h4>
             <p>Published 21 Dec 2023</p>
             <h2>HTML & CSS foundations</h2>
